@@ -10,16 +10,6 @@ I’m a Computer Engineering student at Kadoorie University, passionate about we
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nadakhader04)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadakhader04)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadakhader04&show_icons=true)
-
----
-
----
-
-<img src="https://leetcard.jacoblin.cool/khaderNada?theme=unicorn&font=source_code_pro"/>
-
 ---
 ### Tech Stack
 
@@ -79,4 +69,11 @@ I’m a Computer Engineering student at Kadoorie University, passionate about we
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadakhader04)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadakhader04&show_icons=true)
+
+<img src="https://leetcard.jacoblin.cool/khaderNada?theme=unicorn&font=source_code_pro"/>
 
