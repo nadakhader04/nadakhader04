@@ -1,31 +1,22 @@
 ### Hi there 👋, my name is Nada Khader
 #### Frontend Development
-I’m a Computer Engineering student at Kadoorie University, passionate about web development and 
-problem-solving. I really enjoy learning languages and frameworks like React and React Native. 
+I’m a Computer Engineering student at Kadoorie University, passionate about web development and problem-solving. I really enjoy learning languages and frameworks like React and React Native.
 
-
- 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nadakhader04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nada-khader-7b7589279​/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nada.khader.351)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nada_khader4151/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devinity_nb/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nadakhader04)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nada-khader-7b7589279)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nada.khader.351)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nada_khader4151/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devinity_nb/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nadakhader04)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadakhader04)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadakhader04&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadakhader04&show_icons=true)
 
+---
 
-
-
-
-<h2 align="left">Hi 👋! My name is Nada Khader and I'm a Frontend Development</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -65,16 +56,18 @@ problem-solving. I really enjoy learning languages and frameworks like React and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+---
+
+### Contact Me
 
 <div align="left">
   <a href="https://www.instagram.com/nada_khader4151/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
-  <a href="nada0746" target="_blank">
+  <a href="https://discord.com/users/nada0746" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
-  <a href="nadak6531@gmail.com" target="_blank">
+  <a href="mailto:nadak6531@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nada-khader-7b7589279/" target="_blank">
@@ -82,9 +75,10 @@ problem-solving. I really enjoy learning languages and frameworks like React and
   </a>
 </div>
 
-###
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadakhader04&show_icons=true)
 
 <img src="https://leetcard.jacoblin.cool/khaderNada?theme=unicorn&font=source_code_pro"/>
-<hr/>
+
+---
