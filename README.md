@@ -1,3 +1,17 @@
+### Hi there 👋, my name is Nada Khader
+#### Frontend Development
+I’m a Computer Engineering student at Kadoorie University, passionate about web development and 
+problem-solving. I really enjoy learning languages and frameworks like React and React Native. 
+
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm nada khader</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
