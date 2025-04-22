@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm nada khader</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
- ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 <p align="left">
