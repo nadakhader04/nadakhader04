@@ -54,7 +54,7 @@ I’m a Computer Engineering student at Kadoorie University, passionate about we
 ### Contact Me
 
 <div align="left">
-  <a href="https://www.instagram.com/nada_khader4151/" target="_blank">
+  <a href="https://www.instagram.com/devinity_nb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/nada0746" target="_blank">
@@ -66,9 +66,7 @@ I’m a Computer Engineering student at Kadoorie University, passionate about we
   <a href="https://www.linkedin.com/in/nada-khader-7b7589279/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/nada.khader.351" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
-  </a>
+  
 </div>
 
 ---
